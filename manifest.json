@@ -4,9 +4,9 @@
   "name": "Milk green APP",
   "icons": [
     {
-      "src": "/images/icons-192.png",
+      "src": "奶綠二人組 商標.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "480x640"
     },
 
   ],
